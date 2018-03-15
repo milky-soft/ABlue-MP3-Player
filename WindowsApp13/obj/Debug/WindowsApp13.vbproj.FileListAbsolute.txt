@@ -1,0 +1,17 @@
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\Interop.WMPLib.dll
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.ResolveComReference.cache
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Form1.resources
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Resources.resources
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.GenerateResource.Cache
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe.config
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.pdb
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.xml
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\Interop.WMPLib.dll
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.exe
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.xml
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.pdb
+C:\Users\piotr\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbprojResolveAssemblyReference.cache
